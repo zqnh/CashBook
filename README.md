@@ -12,7 +12,11 @@ JDBC(Dduid)数据库操作<br>
 ## 三、项目主要功能<br>
 ### 1.用户注册及登陆<br>
 #### 用户注册部分实现的功能
+![注册](https://github.com/zqnh/CashBook/blob/master/images/regist.jpg)
 #### 用户登陆部分实现的功能
+![登陆](https://github.com/zqnh/CashBook/blob/master/images/login.jpg)
 ### 2.记账分类<br>
 ### 3.收入<br>
+![收入](https://github.com/zqnh/CashBook/blob/master/images/shouru.jpg)
 ### 4.支出<br>
+![支出](https://github.com/zqnh/CashBook/blob/master/images/zhichu.jpg)
