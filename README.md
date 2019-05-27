@@ -1,5 +1,6 @@
 ## 一、项目简介<br>
 cashbook一个基于三层架构模式的web记账本项目，本项目主要使用JavaWeb技术：Jsp Servlet JDBC<br>
+项目地址：https://github.com/zqnh/CashBook <br>
 ## 二、项目设计的技术<br>
 ### 前端：<br>
 使用BootStrp框架，展示页面，<br>
